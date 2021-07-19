@@ -1,0 +1,95 @@
+@import "friend.css";
+@import "chats.css";
+@import "setting.css";
+@import "more.css";
+@import "find.css";
+@import "three_click.css";
+
+body{
+    margin: 0%;
+
+}
+
+.wifi{
+    margin-left: 5px;
+}
+
+.head-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bolt{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.Explanation{
+    text-align: center;
+    font-size: 15px;
+}
+
+#login-form{
+    display: flex;
+  flex-direction: column;
+  margin: 60px 30px;
+}
+
+#login-form a{
+    color: black;
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+#login-input-email{
+    width: 490px;
+    height: 35px;
+    margin: 0px auto;
+    margin-block-end: 10px;
+}
+
+#login-input-password{
+    width: 490px;
+    height: 35px;
+    margin: 0px auto;
+    margin-block-end: 10px;
+}
+
+#login-input-Login{
+    width: 500px;
+    height: 40px;
+    background: gold;
+    margin: 0px auto;
+    margin-block-end: 20px;
+}
+
+#login-input-Signup{
+    width: 500px;
+    height: 40px;
+    background: gold;
+    margin: 0px auto;
+}
+
+.login_info {
+    border : none;
+    border-bottom : 1px solid gray;
+}
+
+.login_info:focus {
+    outline: none;
+}
+.submit_info {
+    border : none; 
+}
+
+.friends_name {
+    display: flex;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+    
+}

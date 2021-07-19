@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>friends</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    
+    <header>
+        <div class="head-container">
+        <div id = "Service">No Service<span class="wifi"><i class="fas fa-wifi"></i></span></div>
+        <div id = "time">18:43</div>
+        <div id="battery">110%<span class="bolt"><i class="fas fa-battery-three-quarters"></i></span><i class="fas fa-bolt"></i></div>
+    </div>
+    <div class="head_container">
+        <div class="head_container_title">
+            <h1 id="Friend">Friends</h1>
+        </div>
+        <div class="icon_container">
+            <div id="Search"><i class="fas fa-search"></i></div>
+            <div id="music"><i class="fas fa-music"></i></div>
+            <div id="setting"><a href="setting.html"><i class="fas fa-cog"></i></a></div>
+         </div>
+</div>
+    </header>
+
+    <div class="name_display">
+        <div id="info_circle"><i class="fas fa-info-circle" style="color: silver;"><span id="display" style="color: black;">Friend's Name Display></span></i></div>
+    </div>
+
+    <div class="profile">
+        <div id="Twitter"><img src ="img/트위터2.png"></div>
+        <div id = "name"><span >Nicolas</span></div>
+    </div>
+
+  
+    <div class="channel_container">
+    <div class="show_name">Channel</div>
+        <div id="up_icon"><i class="fas fa-chevron-up"></i></div>
+</div>
+    
+    <div class="profile2">
+        <div class="channel_img_name">
+        <div id="channel_Twitter"><img src ="img/트위터2.png"></div>
+        <div id="plus_channel"><span class="channel_name">Channel</span></div>
+    </div>
+        <div class="info_plus">
+        <div id="next"><span>2</span></div>
+        <div id="icon_right"><i class="fas fa-chevron-right"></i></div>
+    </div>
+    </div>
+
+    <div class="footer">
+        <div id="user"><i class="fas fa-user-alt fa-2x"></i></div>
+        <div id="chat"><a href="chats.html"><i class="far fa-comment fa-2x"></i><span>1</span></a></div>
+        <div id="search"><a href="find.html"><i class="fas fa-search fa-2x"></i></a></div>
+        <div id="ellipsis-h"><a href="more.html"><i class="fas fa-ellipsis-h fa-2x"></a></i></div>
+    </div>
+
+
+    
+    
+
+ <script src="https://kit.fontawesome.com/91f739af8c.js"
+                   crossorigin="anonymous"
+                 ></script>   
+</body>
+</html>

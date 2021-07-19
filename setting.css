@@ -1,0 +1,62 @@
+.setting_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 30px;
+    margin-left :30px;
+    margin-bottom : 70px;
+    
+    
+   
+
+}
+
+
+.setting_body_container {
+    color: gray;
+    
+}
+
+
+.notice {
+    border-bottom :1px solid silver;
+    padding-bottom: 15px;   
+}
+
+#announcement {
+    padding-left: 15px;
+}
+
+.lab {
+    border-bottom :1px solid silver;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+#laboratory {
+    padding-left: 15px;
+}
+
+.version_info {
+    
+    padding-bottom: 15px;
+    padding-top: 15px;
+    display: flex;
+}
+
+#info {
+    padding-left: 15px; 
+}
+.version_info_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid silver;
+}
+
+#setting {
+    margin:0px;
+} 
+.setting_h1_box {
+    padding-left : 90px;
+}

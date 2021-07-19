@@ -1,0 +1,184 @@
+body {
+    height: 150vh;
+}
+
+#search {
+    margin-left: 80px;
+}
+
+.find_information {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top :3px;
+    text-align: center;
+}
+
+#qr_title {
+    margin-top: 13px;
+}
+
+#add_contact_title {
+    margin-top: 13px;
+}
+
+#id_title {
+    margin-top: 13px;
+}
+
+#invitation_title {
+    margin-top: 13px;
+}
+
+
+.recommendation {
+    color: gray;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+.friends_check {
+    display: flex;
+    justify-content: center;
+    padding-top: 95px;
+    color: gray;
+}
+
+
+
+.openchat_container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 28px;
+    color: gray;
+    padding-left: 45px;
+}
+
+.openchat_go {
+    opacity: 0.5;
+    padding-right: 45px;
+}
+
+
+.recommended {
+    padding-top: 20px;
+    padding-left: 45px;
+    color: gray;
+}
+
+.recommended_check_friends {
+    color: gray;
+    display: flex;
+    justify-content: center;
+    padding-top: 95px;
+}
+.promotions_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top:50px;
+}
+
+
+.friend_recommend {
+    border-top : 1px solid silver;
+    border-bottom : 1px solid silver;
+    padding-bottom: 120px;
+    margin-top :90px;
+}
+.openchating_container {
+    display: flex;
+    justify-content: space-between;
+    color: gray;
+    padding-left: 45px;
+    padding-top: 20px;
+}
+
+.openchating_go {
+    opacity: 0.5;
+    padding-right: 45px;
+}
+
+.promotion_img img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    float: right;
+    
+    
+}
+
+.promotions_BTS {
+    display: inline;
+    width: 30%;
+    height: 20px;
+    
+}
+
+.promotions_img_members img{
+    width: 20px;
+    height: 20px;
+    float: left;
+    border-radius: 20px;
+    margin-right: 5px;
+    margin-left: 45px;
+    margin-top: 5px;
+}
+
+.promotion_img_members_container {
+    
+    display: flex;
+}
+
+#BTS_name {
+    display: block;
+    margin-left: 45px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+#BTS_ARMY {
+    margin-left: 45px;
+    color: gray;
+    margin-bottom: 5px;
+}
+
+
+.promotions_img_members {
+    margin-bottom: 5px;
+}
+
+#members {
+    color: silver;
+}
+
+#activity {
+    margin-left: 5px;
+    color: pink;
+    
+}
+
+
+.promotion_img_hit_container {
+    display: flex;
+   
+    position: relative;
+    background: pink;
+    margin-right: 45px;
+}
+
+
+.promotion_hit {
+    
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    color:white;
+    
+    background: rgba(0,0,0,0.5);
+    border-radius: 20px;
+    width:50px;
+    text-align: center;
+
+}

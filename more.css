@@ -1,0 +1,116 @@
+#my_profile img {
+    width: 85px;
+    height: 85px;
+    border-radius: 30px;
+  
+}
+.my_info_container {
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.my_info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.my_name_number {
+    margin-left : 20px;
+}
+
+#my_number {
+    opacity: 0.5;
+}
+
+.comment_container {
+    opacity: 0.4;
+}
+
+#my_name {
+    font-weight: 600;
+}
+
+.additional_information {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top :30px;
+    text-align: center;
+
+}
+
+#calendar_title {
+    margin-top: 10px;
+}
+
+#talk_drive_title {
+    margin-top: 10px;
+}
+
+#emoticons_title {
+    margin-top: 10px;
+}
+
+#dollar_title {
+    margin-top: 10px;
+}
+
+.division {
+    display: flex;
+    padding-bottom : 50px;
+    border-bottom :1px solid silver;
+}
+
+.suggest {
+    margin-top: 30px;
+    margin-left: 45px;
+}
+
+#application img{
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    
+}
+
+#application2_container img {
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.application_info {
+    display: flex;
+   
+   
+    
+}
+#application_title {
+   
+    text-align: center;
+    width: 100%;
+}
+
+.application_container {
+    
+
+   padding-right : 20px;
+   text-align: center;
+   margin-left: 45px;
+    margin-top: 20px;
+}
+
+
+.application2_info {
+    
+    text-align: center;
+    margin-top: 20px;
+
+    
+    
+}

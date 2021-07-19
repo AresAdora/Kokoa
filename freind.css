@@ -1,0 +1,142 @@
+
+.head_container {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 45px;
+    padding-left:45px ;
+}
+
+
+
+.name_display {
+    background:#f3f3f3;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    
+}
+
+#display {
+    font-weight: 500;
+
+}
+.channel_container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+#up_icon {
+    opacity: 0.3 ;
+    
+}
+
+.profile {
+    padding-left: 45px;
+   
+    display: flex;
+    align-items:center;
+    padding-bottom : 30px;
+    border-bottom :1px solid gray;
+   
+   
+}
+
+#name {
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: 600;
+   
+}
+
+
+
+.show_name {
+    color: gray;
+}
+
+.profile2 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 45px;
+    padding-top: 20px;
+}
+.info_plus {
+    display: flex;
+    align-items: center;
+    opacity: 0.3 ;
+    margin-right: 45px;
+}
+
+#next {
+    padding-right: 8px;
+}
+
+.channel_name {
+    padding-left: 25px;
+    font-size: 20px;
+   
+}
+
+.channel_img_name {
+    display: flex;
+    align-items: center;
+}
+.footer {
+   
+    display: flex;
+   justify-content: space-between;
+    background: #f3f3f3;
+  
+    border: 2px solid silver;
+    padding-top : 20px;
+    padding-bottom:  20px;
+    
+    position: absolute;
+    width:100%;
+    bottom : 0px;
+    position: fixed;
+    
+}
+
+#ellipsis-h {
+    margin-right : 20px;
+}
+#user {
+    margin-left : 20px;
+}
+
+#chat {
+    position: relative;
+    display: flex;
+}
+
+#chat span {
+ display: block;
+ background-color: red;
+ border-radius: 30px;
+ width: 25px;
+ height: 25px;
+ text-align: center;
+ line-height: 25px;
+ position: absolute;
+ left: 16px;
+ bottom: 14px;
+ color: white;
+}
+
+#channel_Twitter img{
+ width :65px;
+ height: 65px;
+ border-radius: 25px;
+ margin-left: 0px; 
+}
+
+#Twitter img{
+ width :80px;
+ height: 80px;
+ border-radius: 25px;
+ margin-left: 0px;
+ margin-top: 12px;  
+}
